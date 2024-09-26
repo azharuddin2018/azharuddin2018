@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Real-Time Data Pipeline with Kafka and Snowflake**
+- 🌱 I’m currently working on **Real-Time Data Pipeline with Kafka and Snowflake**
 
 - 🔭 I was previously working on **Migration to Snowflake Data Warehouse**
 
